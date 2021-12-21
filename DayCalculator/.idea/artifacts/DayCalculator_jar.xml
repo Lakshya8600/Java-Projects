@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DayCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DayCalculator_jar</output-path>
+    <root id="archive" name="DayCalculator.jar">
+      <element id="module-output" name="DayCalculator" />
+    </root>
+  </artifact>
+</component>

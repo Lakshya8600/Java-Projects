@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClockAngleCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClockAngleCalculator_jar</output-path>
+    <root id="archive" name="ClockAngleCalculator.jar">
+      <element id="module-output" name="ClockAngleCalculator" />
+    </root>
+  </artifact>
+</component>
